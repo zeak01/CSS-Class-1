@@ -8,6 +8,16 @@
     height: 100vh;
     background-image: url("Knowing\ Much\ -\ Copy.png");
     background-size: cover;
-    background-position: center;
+    background-position: top right;
     background-attachment: fixed;
+}
+
+.box-2{
+    width: 500px;
+    height: 200px;
+ /* border-style: double;
+    border-color: black;
+    border-width: 20px; */
+    border-radius: 20px;
+    border: 5px double black;
 }
